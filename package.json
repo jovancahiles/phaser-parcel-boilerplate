@@ -15,8 +15,8 @@
         "phaser": "^3.16.2"
     },
     "scripts": {
-        "start": "parcel ./index.html --port 8008",
-        "build": "parcel build ./index.html"
+        "start": "parcel ./public/index.html --port 8008",
+        "build": "parcel build ./public/index.html"
     },
     "staticFiles": {
         "staticPath": "assets",
